@@ -19,6 +19,23 @@ const about = {
   },
 };
 
+const experiences = [
+  {
+    name: "Accenture Solutions Pvt. Ltd.",
+    role: "Oracle Applications Developer",
+    description:
+      "Customize and extend Oracle Applications like APEX, Certa and Oracle Forms to align with business requirements, ensuring seamless functionality and user experience, resulting in 23% more efficiency than previous connections made. Design, Develop, and fine-tune OTBI reports for maximum efficiency, ensuring stakeholders receive timely and actionable insights to drive swift decision-making, resulting in reduction of a job schedule execution by 12 seconds. Implement Oracle Alerts for proactive monitoring and rapid issue resolution, increasing operational efficiency and reducing potential downtime, resulting in picking jobs older than months/years gone unnoticed and was waiting for approval. Collaborate efficiently with vendors, particularly in Coupa integration, to expedite procurement and financial processes, and enhancing supply chain efficiency resulting in seamless immediate update of records upon completing the scheduled job execution.",
+    stack: [
+      "Oracle Cloud EmojiPeopleRounded",
+      "Oralce Forms",
+      "Oracle Reports",
+      "Oracle PL/SQL",
+      "Oracle Suite R12",
+    ],
+    startDate: "October 2021",
+  },
+];
+
 const projects = [
   {
     name: "Project Team Management System",
