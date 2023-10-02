@@ -4,7 +4,6 @@
     text-align: center;
     box-shadow: var(--shadow);
     transition: transform 0.2s linear;
-    width: 50%;
 }
 
 .experience:hover {
