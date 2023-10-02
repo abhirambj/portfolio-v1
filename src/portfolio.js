@@ -94,4 +94,4 @@ const contact = {
   email: "abhiram.bj@gmail.com",
 };
 
-export { header, about, projects, skills, contact };
+export { header, about, experiences, projects, skills, contact };
