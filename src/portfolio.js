@@ -1,12 +1,12 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: "/",
-  title: "Abhiram B J.",
+  title: "Abhiram Bylahalli Jagadish.",
 };
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: "Abhiram Bylahalli Jagadish",
+  name: "Abhiram B J",
   role: "Software Engineer",
   description:
     "Highly motivated and detail-oriented Software Developer with nearly two years of experience at Accenture. Adept at translating complex technical concepts into user-friendly solutions and passionate about staying up-to-date with emerging industry trends. Excited to apply my practical experience and strong foundation to contribute effectively to a dynamic software development team and continue my growth in the field.",
