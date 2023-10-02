@@ -1,17 +1,17 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: "/",
-  title: "Abhiram B J.",
+  title: "Abhiram Bylahalli Jagadish.",
 };
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  name: "Abhiram B J",
+  name: "Abhiram Bylahalli Jagadish",
   role: "Software Engineer",
   description:
-    "I studied Computer Science Engineering in Hassan-Karnataka-India, worked at innovative startup and Free Software Organizations. I’m interested in the whole visual part of the web and cross platform mobile applications, its usability, performance and accessibility. I’ve lived on planet earth for 21 years and have worked on the web and cross platform mobile applications for 1 of them.",
+    "Highly motivated and detail-oriented Software Developer with nearly two years of experience at Accenture. Adept at translating complex technical concepts into user-friendly solutions and passionate about staying up-to-date with emerging industry trends. Excited to apply my practical experience and strong foundation to contribute effectively to a dynamic software development team and continue my growth in the field.",
   resume:
-    "https://drive.google.com/file/d/1-Kpc_8t-vHVxix2JvgYXOW_6Hv9gAW7s/view?usp=sharing",
+    "https://drive.google.com/file/d/1gDHTfdf8iFFDWdkISt_D8QFzdrepdT43/view?usp=sharing",
   social: {
     linkedin: "https://www.linkedin.com/in/abhirambj/",
     github: "https://github.com/abhirambj",
@@ -20,20 +20,18 @@ const about = {
 };
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: "Project Team Management System",
     description:
-      "This project automates the process of creating teams for a department.This was developed by doing minimalistic designs and good working functionalities. The team would be formed automatically by choosing random person from each group that is charecterised based on their CGPA.",
+      "Developed an automated system to streamline college department team formation, with a focus on minimalist design and optimized functionality. Incorporated a CGPA-based grouping algorithm to facilitate random team selection, eliminating the need for manual faculty involvement in team creation.",
     stack: ["HTML", "CSS", "PHP", "MySQL"],
     sourceCode: "https://github.com/abhirambj/ptms",
     // livePreview: 'https://github.com',
   },
   {
-    name: "Student Website For GECM College",
+    name: "College Website - GECM College",
     description:
-      "The website was developed for the sister college of the college I am pursuing my engineering.This was an opportunity for enhancing my skills on web development.",
+      "Developed a multifunctional website that offers students user-friendly registration and navigation features. Designed an intuitive admin panel for college administrators to efficiently manage departments, faculties, and event notifications. Ensuring a seamless online experience for both students and college staff.",
     stack: ["HTML", "CSS", "JavaScript"],
     // sourceCode: 'https://github.com',
     livePreview: "http://gecm.in",
@@ -41,28 +39,41 @@ const projects = [
 ];
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
+  "Java",
+  "C",
+  "C++",
+  "Python",
   "Data Structures",
   "Algorithms",
   "HTML",
   "CSS",
   "JavaScript",
-  "Go Lang",
+  "Bootstrap",
+  "NodeJS",
+  "Oracle Cloud ERP",
+  "Heroku",
   "React",
-  "Python",
   "TailwindCSS",
   "Material UI",
   "Git",
+  "GitHub",
   "Bulma",
   "NextJS",
   "Flutter",
   "Ionic",
   "Bravo Studio",
+  "Visual Studio Code",
+  "Restful APIs",
+  "Postman",
+  "Jira",
+  "MongoDB",
+  "MySQL",
+  "FastAPT",
+  "Windows",
+  "Linux",
 ];
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: "abhiram.bj@gmail.com",
 };
 
