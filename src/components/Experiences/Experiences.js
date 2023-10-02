@@ -1,7 +1,7 @@
 import uniqid from "uniqid";
 import { experiences } from "../../portfolio";
 import ExperienceContainer from "../ExperiencesContainer/ExperienceContainer";
-import "./Experinces.css";
+import "./Experiences.css";
 
 const Experiences = () => {
   if (!experiences.length) return null;
