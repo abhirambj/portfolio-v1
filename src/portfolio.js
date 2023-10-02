@@ -34,6 +34,22 @@ const experiences = [
     ],
     startDate: "October 2021",
   },
+  {
+    name: "Ownacar.in",
+    role: "Full Stack Web Developer Intern",
+    description:
+      "Designed and developed responsive UI using Bulma for visual appealing interfaces, resulting in designing 45 Webpages. Created reusable UI Components, ensuring consistent design and cross-browser compatibility. Optimized performance through techniques like lazy loading and code splitting for faster page load times. Stayed current with frontend development trends to incorporate best practices and innovations.",
+    stack: ["NextJS", "Bulma", "FastAPI", "PostgreSQL"],
+    startDate: "March 2021",
+  },
+  {
+    name: "Ownacar.in",
+    role: "Mobile Application Developer",
+    description:
+      "Efficient handling of data within the app using State management effectively. Secure API Integration with effective data management. Enhanced functionality based on user’s feedback and successfully published the application in app store.",
+    stack: ["NextJS", "Bulma", "FastAPI", "PostgreSQL"],
+    startDate: "June 2021",
+  },
 ];
 
 const projects = [
@@ -43,14 +59,12 @@ const projects = [
       "Developed an automated system to streamline college department team formation, with a focus on minimalist design and optimized functionality. Incorporated a CGPA-based grouping algorithm to facilitate random team selection, eliminating the need for manual faculty involvement in team creation.",
     stack: ["HTML", "CSS", "PHP", "MySQL"],
     sourceCode: "https://github.com/abhirambj/ptms",
-    // livePreview: 'https://github.com',
   },
   {
     name: "College Website - GECM College",
     description:
       "Developed a multifunctional website that offers students user-friendly registration and navigation features. Designed an intuitive admin panel for college administrators to efficiently manage departments, faculties, and event notifications. Ensuring a seamless online experience for both students and college staff.",
     stack: ["HTML", "CSS", "JavaScript"],
-    // sourceCode: 'https://github.com',
     livePreview: "http://gecm.in",
   },
 ];
