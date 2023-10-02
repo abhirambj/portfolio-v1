@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: "/",
-  title: "Abhiram Bylahalli Jagadish.",
+  title: "Abhiram B J.",
 };
 
 const about = {
