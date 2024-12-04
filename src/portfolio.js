@@ -70,10 +70,10 @@ const experiences = [
 		name: "SMMUD",
 		role: "Full Stack Developer",
 		description:
-			"Crafted customer-facing modules with Next.js and FastAPI, enabling real-time data synchronization with MongoDB, leading to a 25% rise in user engagement from over 500 active users. Deployed Progressive Web App (PWA) functionalities like offline support and push notifications, driving a 20% surge in user engagement and a 15% increase in retention. Integrated third-party payment gateways to enable secure transactions, enhancing the platform's e-commerce capabilities.",
+			"Crafted customer-facing modules with Next.js and NodeJS, enabling real-time data synchronization with MongoDB, leading to a 25% rise in user engagement from over 500 active users. Deployed Progressive Web App (PWA) functionalities like offline support and push notifications, driving a 20% surge in user engagement and a 15% increase in retention. Integrated third-party payment gateways to enable secure transactions, enhancing the platform's e-commerce capabilities.",
 		stack: [
 			"NextJS",
-			"FastAPI",
+			"NodeJS",
 			"PostgreSQL",
 			"Docker",
 			"AWS",
